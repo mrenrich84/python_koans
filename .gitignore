@@ -3,4 +3,4 @@
 .DS_Store
 answers
 .hg
-.idea
+.venv/
